@@ -62,3 +62,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Responsive Design Course](https://platzi.com/home)
 
 ## Contact
+
+- GitHub [@waleska-alexandra](https://{https://github.com/waleska-alexandra})
+- Twitter [@rangelwaleska_](https://{https://twitter.com/rangelwaleska_})
