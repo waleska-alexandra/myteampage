@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/waleska-alexandra/Project-404-Not-Found/blob/main/project.png)
+![screenshot](https://github.com/waleska-alexandra/myteampage/blob/main/Captura%20de%20pantalla%202022-04-16%20211022.png)
 
 This was an great challenge for newbie front end developer like me. Obviously, if you have many experience, this one could be very easy and unnecessary.
 I was able to improve things like responsive design and I had my first meet with Figma. I think this was a great opportunity. 
